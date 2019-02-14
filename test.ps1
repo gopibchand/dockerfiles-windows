@@ -37,3 +37,4 @@ $dirs.GetEnumerator() | Sort-Object Name | ForEach-Object {
   .\test.ps1
   popd
 }
+
